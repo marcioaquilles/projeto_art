@@ -27,6 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - Bootstrap 5.3.0-alpha3
+- Bootstrap Icons
 - JavaScript
 - Git e Github
 
